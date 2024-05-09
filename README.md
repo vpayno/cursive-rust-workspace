@@ -1,15 +1,15 @@
-# ratatui-rust-workspace
+# cursive-rust-workspace
 
-[![rust](https://github.com/vpayno/ratatui-rust-workspace/actions/workflows/rust.yml/badge.svg?branch=main)](https://github.com/vpayno/ratatui-rust-workspace/actions/workflows/rust.yml)
-[![actionlint](https://github.com/vpayno/ratatui-rust-workspace/actions/workflows/gh-actions.yml/badge.svg?branch=main)](https://github.com/vpayno/ratatui-rust-workspace/actions/workflows/gh-actions.yml)
-[![spellcheck](https://github.com/vpayno/ratatui-rust-workspace/actions/workflows/spellcheck.yml/badge.svg?branch=main)](https://github.com/vpayno/ratatui-rust-workspace/actions/workflows/spellcheck.yml)
+[![rust](https://github.com/vpayno/cursive-rust-workspace/actions/workflows/rust.yml/badge.svg?branch=main)](https://github.com/vpayno/cursive-rust-workspace/actions/workflows/rust.yml)
+[![actionlint](https://github.com/vpayno/cursive-rust-workspace/actions/workflows/gh-actions.yml/badge.svg?branch=main)](https://github.com/vpayno/cursive-rust-workspace/actions/workflows/gh-actions.yml)
+[![spellcheck](https://github.com/vpayno/cursive-rust-workspace/actions/workflows/spellcheck.yml/badge.svg?branch=main)](https://github.com/vpayno/cursive-rust-workspace/actions/workflows/spellcheck.yml)
 
 Personal workspace for learning Ratatui & Rust.
 
 ## Links
 
-- [Ratatui GitHub](https://github.com/ratatui-org/ratatui)
-- [Ratatui Website](https://ratatui.rs/)
+- [Cursive GitHub](https://github.com/gyscos/cursive)
+- [Cursive Crate](https://docs.rs/cursive/latest/cursive/)
 - [Rust](https://www.rust-lang.org/)
 
 ## RunMe Playbook
